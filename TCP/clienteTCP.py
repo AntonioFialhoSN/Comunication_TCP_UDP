@@ -1,7 +1,7 @@
 import socket
 
 # Definir informações do servidor
-host = '127.0.0.1'  # Endereço IP do servidor
+host = '192.168.0.37'  # Endereço IP do servidor
 port = 12345       # Porta do servidor
 
 # Criar um objeto de socket TCP
